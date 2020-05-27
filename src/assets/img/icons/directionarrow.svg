@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="62" viewBox="0 0 66 62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b6cc34;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="direction_arrow" data-name="direction arrow" class="cls-1" d="M1512.65,543h28.05l36.3,30.162L1539.05,605H1511l37.95-31.838Z" transform="translate(-1511 -543)"/>
+</svg>

@@ -1,0 +1,71 @@
+.main-navigation{
+    position: fixed;
+    width: 15vw;
+    height: 100vh;
+    background-color: transparent;
+    z-index: 100;
+    border-right: 1px solid #DA9031;
+}
+@media (max-width: 1200px) {
+    .main-navigation{
+        display: none;
+    }
+}
+.main-navigation .nav-brand-slogan{
+    margin: 0 auto;
+    width: 145px;
+    text-align: center;
+    padding-top:40px;
+}
+.main-navigation .nav-brand-slogan h2, .main-navigation .nav-brand-slogan h5{
+    margin: 0px;
+    line-height: 30px;
+    color: #f2f2f2
+}
+.nav-brand-header{
+    width:100%;
+    background-color: #000000;
+    height: 35px;
+}
+.nav-brand-header{
+    margin-top: 20px;
+}
+.nav-brand-header img{
+    width: 100%;
+}
+.nav{
+    margin-top: 60px;
+    width: 95px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-item  div{
+    float: left;
+    color:#CACBCC;
+}
+.nav-item  div img{
+    padding-left: 10px;
+}
+.bottom-nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.bottom-nav .bottom-nav-item{
+    float: left;
+}
+.nav-border{
+    border: 1px solid #DA9031;
+    height: 100px;
+}
+.bottom-nav-item h6{
+    line-height: 18px;
+    margin: 0;
+    color: #CACBCC;
+    padding-right: 35px;
+}
+.bottom-nav-container{
+    width: 93px;
+    margin-left: auto;
+    margin-right: auto;
+}

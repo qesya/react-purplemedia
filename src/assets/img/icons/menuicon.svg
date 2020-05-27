@@ -1,0 +1,15 @@
+<svg id="menu_icon" data-name="menu icon" xmlns="http://www.w3.org/2000/svg" width="35.219" height="35.969" viewBox="0 0 35.219 35.969">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #da9031;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M851.975,205.866H885.2" transform="translate(-850.969 -204.875)"/>
+  <path id="Shape_4_copy" data-name="Shape 4 copy" class="cls-1" d="M851.975,221.862H885.2" transform="translate(-850.969 -204.875)"/>
+  <path id="Shape_4_copy_2" data-name="Shape 4 copy 2" class="cls-1" d="M851.975,237.858H885.2" transform="translate(-850.969 -204.875)"/>
+</svg>
